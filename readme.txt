@@ -1,11 +1,14 @@
+This is not my work I just uploaded to from http://stalax.googlecode.com/svn/ as to make sure the mod source lives on. Thank you and mod on! Below the line is what is in the original readme.txt
+------------------------------------------------------------
+
 Jedi Academy public SDK and tools release
 11/26/2003
 
 These tools are released "as is" and are unsupported by Raven Software, Activision or LucasArts.
 
-Star Wars® Jedi Knight® : Jedi Academy™: 
+Star WarsÂ® Jedi KnightÂ® : Jedi Academyâ„¢: 
 
-© 2003 LucasArts Entertainment Company LLC. © 2003 Lucasfilm Ltd. & TM or ® as indicated. 
+Â© 2003 LucasArts Entertainment Company LLC. Â© 2003 Lucasfilm Ltd. & TM or Â® as indicated. 
 All rights reserved. Used Under Authorization. LucasArts and the LucasArts logo are registered 
 trademarks of Lucasfilm Ltd. Any use of any of the materials on this site other than for private, 
 non-commercial viewing purposes is strictly prohibited. 
